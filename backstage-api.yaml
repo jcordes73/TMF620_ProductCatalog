@@ -9,7 +9,7 @@ spec:
   owner: jcordes
   system: tmf-portal
   definition: |
-  {
+    {
     "swagger": "2.0",
     "info": {
         "title": "Product Catalog Management",
