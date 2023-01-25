@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: TMF620_ProductCatalog
   annotations:
-    github.com/project-slug: tmforum-apis/TMF620_ProductCatalog
+    github.com/project-slug: jcordes73/TMF620_ProductCatalog
 spec:
   type: other
   lifecycle: unknown
