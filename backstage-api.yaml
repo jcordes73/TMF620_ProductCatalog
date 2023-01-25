@@ -6,7 +6,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: production
-  owner: jcordes
+  owner: guest
   system: tmf-portal
   definition: |
     {
