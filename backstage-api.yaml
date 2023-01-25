@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: tmf620_productcatalog
+  description: TMF 620 Product Catalog
+spec:
+  type: openapi
+  lifecycle: production
+  owner: jcordes
+  system: tmf-portal
+  definition: |
